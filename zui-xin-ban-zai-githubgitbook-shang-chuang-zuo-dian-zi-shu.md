@@ -27,9 +27,11 @@ description: 更新于2019.12.11的最新版教程，实际验证过
 * 在弹出框中选中“GitHub”，接下来按照提示操作，选中要关联的github的仓库即可
 
 ## 结束
+---
 
-无话可说
+分别在github和gitbook上体验了markdown语法的使用。github上的语法更加符合原生markdown语法，而新版gitbook明显不是为了markdown而设计的，包括对markdown的一些语法做了修改，换成了gitbook自己的格式。这个对于使用惯了原生markdown语法的人来说，并不习惯。例如斜体在gitbook里是两个_包裹，而语法教程里是两个\*包裹。
 
+因此可以看出，gitbook为了打开面向非IT人员的实常，做出了自己的策略。确实，对于普通人来讲，用gitbook更加简单。
 
 
 
